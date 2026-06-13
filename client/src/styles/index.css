@@ -1,0 +1,25 @@
+@import './Auth.css';
+@import './Dashboard.css';
+@import './GroupDetail.css';
+@import './ExpenseDetail.css';
+@import './ImportCSV.css';
+@import './Settlement.css';
+@import './NewExpense.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f8fafc;
+  color: #111827;
+}
