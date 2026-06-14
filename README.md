@@ -108,3 +108,7 @@ npm run dev
 - The CSV import flow is designed to analyze the uploaded file and produce anomaly reports.
 - Membership is time-based using `joinedAt` and `leftAt`.
 - Settlements are recorded as rows, not deleted.
+## Deployed URLs
+- Frontend: https://split-x-eosin.vercel.app
+- Backend: https://splitx-backend-1jnu.onrender.com
+- GitHub: https://github.com/RajanReddyGangumalla/SplitX
