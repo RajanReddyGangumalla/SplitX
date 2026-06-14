@@ -112,3 +112,6 @@ npm run dev
 - Frontend: https://split-x-eosin.vercel.app
 - Backend: https://splitx-backend-1jnu.onrender.com
 - GitHub: https://github.com/RajanReddyGangumalla/SplitX
+
+
+Ai used - Chatgpt
